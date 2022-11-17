@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felix Kimutai (@felix13)
-- 👀 I’m interested in python , Django , Javascript, HTML, CSS DevOps, Docker, NGINX, social media trends and future social media products
+- 👀 I’m interested in python , Django , Javascript, HTML, CSS, DevOps, Docker, NGINX, social media trends and future social media products
 - 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on python , django and javascript projects
 - 📫 How to reach me ? you can reach me through my personal email kimutaifelix@gmail.com
