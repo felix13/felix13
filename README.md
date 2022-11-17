@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @felix13
+- 👋 Hi, I’m Felix Kimutai (@felix13)
 - 👀 I’m interested in python , Django , Javascript, DevOps, Html and CSS 
 - 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on python , django and javascript projects
